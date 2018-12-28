@@ -28,3 +28,7 @@ Clone this repo<br>
 Open the file in Jupyter Notebook <br>
 Add your GitHub API Credentials <br>
 Run!
+## References
+* [Book](https://www.oreilly.com/library/view/mining-the-social/9781449368180/ch07.html)
+* [Tutorial](https://chase-seibert.github.io/blog/2016/07/22/pygithub-examples.html)
+* [More](https://github.com/ericmjl/Network-Analysis-Made-Simple?files=1)
