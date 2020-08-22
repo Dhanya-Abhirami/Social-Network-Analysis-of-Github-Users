@@ -28,6 +28,8 @@ Clone this repo<br>
 Open the file in Jupyter Notebook <br>
 Add your GitHub API Credentials <br>
 Run!
+## Slides
+[Link](https://docs.google.com/presentation/d/1gB43G8lETkf4Q4_fa55rDbmDpxyiIafdz2MVHtCwS9s/edit?usp=sharing)
 ## References
 * [Book](https://www.oreilly.com/library/view/mining-the-social/9781449368180/ch07.html)
 * [Tutorial](https://chase-seibert.github.io/blog/2016/07/22/pygithub-examples.html)
